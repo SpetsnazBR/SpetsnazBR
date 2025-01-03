@@ -30,7 +30,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=spetsnazbr&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=spetsnazbr&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=3" 
   />
 
 </p>
