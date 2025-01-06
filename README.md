@@ -6,8 +6,7 @@
 - 📫 How to reach me: spetsnazbr.deb on Instagram
 - ⚡ Fun fact: 4 years hitchhiking between Brazil, Argentina, Paraguay, Chile and Uruguay
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spetsnazbr&layout=compact)
--->
+____________________________________
 
 ### 🤖 Languages ​​and Technologies
 
