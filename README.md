@@ -26,12 +26,9 @@
 
 <p>
   
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=spetsnazbr&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=3" 
-  />
+<a href="https://github.com/spetsnazbr/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spetsnazbr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+</a>
 
 </p>
 
